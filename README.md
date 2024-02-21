@@ -1,2 +1,2 @@
 # Belajar Kolaborasi di Dicoding
-Belajar Melakukan Squash Changes
+Melakukan Squash Changes di GitHub
